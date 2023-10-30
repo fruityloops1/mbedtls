@@ -108,7 +108,6 @@ set(src_tls
     debug.c
     mps_reader.c
     mps_trace.c
-    net_sockets.c
     ssl_cache.c
     ssl_ciphersuites.c
     ssl_client.c
